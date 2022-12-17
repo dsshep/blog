@@ -1,0 +1,4 @@
+baseURL = 'http://dpshep.com/'
+languageCode = 'en-gb'
+title = 'David Shepherd'
+theme = 'ananke'
