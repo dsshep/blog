@@ -1,11 +1,9 @@
 ---
-title: "First Post"
+title: "Hello world"
 date: 2022-12-17T12:36:51Z
-draft: true
+draft: false
 ---
 
-## Introduction
+Welcome to my blog, which contains snippets related to programming. Specifically C#, F#, Web Development, and maybe even a bit of cloud. 
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+Who knows - some of it may even be useful 🙂
